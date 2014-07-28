@@ -14,7 +14,7 @@ shinyUI(bootstrapPage(title="Aviation data",
            p("Created using the",
              a(href="https://github.com/rstudio/ggvis", "ggvis"),
              "interactive charting library with inspiration from the",a(href="http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html?_r=0","NYT."),HTML("<br>"),
-           "Find the code at", a(href="https://github.com/arthur-flam/airplanes", "@arthur-flam/airplanes"),HTML("<br>"),
+           "Find the code at", a(href="https://github.com/arthur-flam/aircrashes", "@arthur-flam/airplanes"),HTML("<br>"),
            em("Thanks to ",a(href="https://github.com/ramnathv", "Ramnath Vaidyanathan"),
              ", ", a(href="https://github.com/hadley","Hadley Wickham"),
              "and ", a(href="https://github.com/timelyportfolio","Timelyportfolio"), "for their work on interactive visualizations with R."))
